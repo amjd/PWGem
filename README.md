@@ -5,10 +5,12 @@ PWGem is an adaptation of [Password Chameleon](https://www.passwordchameleon.com
 
 ###How to use it
 
-1. Create a new bookmark in your bookmarks toolbar with this code:
+
 ```javascript
-javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://dl.dropboxusercontent.com/u/63010476/pwgem.js?v='+parseInt(Math.random()*99999999);document.body.appendChild(s);})();
+javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://raw2.github.com/amjd/PWGem/master/pwgem.js?v='+parseInt(Math.random()*99999999);document.body.appendChild(s);})();
 ```
+
+1. Create a new bookmark in your bookmarks toolbar with the above code.
 2. Open any site where you wish to use a unique password and enter a strong master password in the password field.
 3. Click on the bookmarklet you saved in Step 1. An alert box will display your unique, strong password for that website (derived from the master password), and it will be automatically entered in the password field.
 4. There's no Step 4, enjoy!
