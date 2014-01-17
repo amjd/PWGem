@@ -1,7 +1,7 @@
 PWGem
 =====
 
-PWGem is an adaptation of [Password Chameleon](https://www.passwordchameleon.com). It's essentially a browser bookmarklet which makes using unique passwords for different websites a breeze, without needing to remember them all.
+PWGem is a browser bookmarklet based on [Password Chameleon](https://www.passwordchameleon.com) which makes using unique passwords for different websites a breeze, without needing to remember them all.
 
 ###How to use it
 
