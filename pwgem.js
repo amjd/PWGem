@@ -1,3 +1,4 @@
+/* Original code from PasswordChameleon */
 
 	/*
 		* A JavaScript implementation of the Secure Hash Algorithm, SHA-1, as defined
@@ -176,7 +177,7 @@
 	    return url;
 	}
 
-	/* PWGem code begins */
+/* PWGem code begins */
 
 	var pswd = "", site = "";
 	if (window.location.host.indexOf("www.") != -1)
