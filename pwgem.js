@@ -1,3 +1,5 @@
+(function(){
+
 /* Original code from PasswordChameleon */
 
 	/*
@@ -192,3 +194,4 @@
 	alert(pswd.password);
 	document.activeElement.value = pswd.password;
 
+})();
